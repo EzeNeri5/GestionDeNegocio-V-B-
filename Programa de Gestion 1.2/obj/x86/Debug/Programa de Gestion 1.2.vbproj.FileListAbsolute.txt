@@ -1,0 +1,642 @@
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Lourdes\Desktop\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\Programa de Gestion 1.5\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Eze\Desktop\Programa de Gestion 1.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 1.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 1.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Users\alumno\Downloads\pro23\Programa de Gestion 1.6\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\CARINA\Desktop\Programa de Gestion 1.8\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\CARINA\Desktop\Programa de Gestion 1.8\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\CARINA\Desktop\Programa de Gestion 1.8\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\CARINA\Desktop\Programa de Gestion 1.8\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 1.9\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 1.91\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.00\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Prototipo prueba\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.1\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.1\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.11 ultimo\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Leo\pgr\Segundo cuatrimestre\TP Final\Subido\Programa de Gestion 2.2\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.3\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.4\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe.config
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\bin\Debug\BasedeDatos.sdf
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.exe
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.pdb
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\bin\Debug\Programa de Gestion 1.2.xml
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbprojResolveAssemblyReference.cache
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Admin.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Articulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Clientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Compras.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearArticulos.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearClientes.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearCompra.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearUsuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.CrearVentas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Direccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Fecha.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.IngresoUsuario.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Marcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarArticulo.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarCliente.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarDireccion.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarMarcas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.ModificarProveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Resources.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Principal.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Proveedores.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Stock.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Usuarios.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa_de_Gestion.Ventas.resources
+C:\Users\Eze\Desktop\Programa de Gestion 2.5\Programa de Gestion 1.2\obj\x86\Debug\Programa de Gestion 1.2.vbproj.GenerateResource.Cache
